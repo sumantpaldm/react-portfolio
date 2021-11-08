@@ -1,7 +1,7 @@
 # REACT PORTFOLIO
 
 
-###     link to application::  https://scary-spell-24723.herokuapp.com/
+###     link to application::  https://sumantpaldm.github.io/react-portfolio/
 
 
   ## Description
